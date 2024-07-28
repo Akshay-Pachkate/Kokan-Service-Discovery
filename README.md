@@ -34,12 +34,12 @@ To run this project locally, follow these steps:
    git clone https://github.com/Akshay-Pachkate/Kokan-Service-Discovery.git
    ```
 
-2. **Run the app**
-  ```sh
-    cd ./Kokan-Service-Discovery
+2. **Run the app:**
+```sh
+cd ./Kokan-Service-Discovery
 
-    npm Install
-    npm run dev
+npm Install
+npm run dev
 
-  ```
+```
 Project will run on http://localhost:5173
