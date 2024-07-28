@@ -35,11 +35,11 @@ To run this project locally, follow these steps:
    ```
 
 2. **Run the app**
-```sh
+  ```sh
     cd ./Kokan-Service-Discovery
 
     npm Install
     npm run dev
 
-```
+  ```
 Project will run on http://localhost:5173
