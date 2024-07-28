@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Akshay-Pachkate/Kokan-Service-Discovery.git
-   
+   ```
 
 2. **Run the app**
 ```sh
